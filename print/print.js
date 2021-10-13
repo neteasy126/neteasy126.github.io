@@ -1,5 +1,5 @@
 const text = document.querySelector('.text');
-const txt  =["欢迎访问4MMMMM","这里是小赵的个人网页","Thanks for visit me","This is my website"]; 
+const txt  =["欢迎访问","这里是小赵的个人网页","Thanks for visit me","This is my website"]; 
 
 var index=0;
 var xiaBiao= 0;

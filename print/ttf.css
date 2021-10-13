@@ -1,0 +1,8 @@
+@font-face {
+	font-family:httf;
+	src:url("h.ttf");
+}
+ 
+body{
+	font-family:httf;
+}
